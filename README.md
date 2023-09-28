@@ -1,8 +1,7 @@
-## Setup
+## Setu
 
 ```
 brew install ffmpeg
-brew install mpv
 ```
 
 ## To start program:
