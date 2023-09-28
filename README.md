@@ -3,9 +3,11 @@
 ```
 MAC:
 brew install ffmpeg
+pip3 install -r requirements.txt
 
 WINDOWS:
 choco install ffmpeg
+pip install -r requirements.txt
 ```
 
 ## To start program:
@@ -13,9 +15,7 @@ choco install ffmpeg
 ```
 MAC:
 python3 TubeStall.py
-pip3 install -r requirements.txt
 
 WINDOWS:
 python TubeStall.py
-pip install -r requirements.txt
 ```
